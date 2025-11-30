@@ -1,1 +1,1 @@
-echo "VRPublicSpeakingTrainer\Library\PackageCache" >> .gitignore
+echo "\VRPublicSpeakingTrainer\Library\PackageCache" >> .gitignore
